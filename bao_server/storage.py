@@ -53,7 +53,7 @@ def last_reward_from_pid(pid):
 def experience():
     with _bao_db() as conn:
         c = conn.cursor()
-        c.execute("SELECT plan, reward FROM experience")
+        c.execute("SELECT plan, reward FROM experience where plan not like '%\"Node Type\": \"Other\"%'")
         return c.fetchall()
 
 def experiment_experience():

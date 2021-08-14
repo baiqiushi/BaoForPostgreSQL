@@ -177,14 +177,14 @@ class ExperimentRunner:
                                               pid)
                     raise BaoException(f"Server down after experiment with arm {arm_idx}") from e
 
-                retries_remaining = 5
+                retries_remaining = 10
                 while (last_id := storage.last_reward_from_pid(pid)) == prev_id:
                     # wait a second to make sure the reward is flushed to the DB
-                    time.sleep(1)
+                    time.sleep(30)
                     retries_remaining -= 1
                     if retries_remaining <= 0:
                         raise BaoException(
-                            "Reward for experiment did not appear after 5 seconds, "
+                            "Reward for experiment did not appear after 300 seconds, "
                             + "is the Bao server running?")
 
                 # last_id is the ID of the experience for this experiment
