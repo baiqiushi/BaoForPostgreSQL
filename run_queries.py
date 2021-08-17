@@ -16,22 +16,19 @@ def chunks(lst, n):
 
 def run_query(sql, bao_select=False, bao_reward=False):
     start = time()
-    while True:
-        try:
-            conn = psycopg2.connect(PG_CONNECTION_STR)
-            cur = conn.cursor()
-            cur.execute(f"SET enable_bao TO {bao_select or bao_reward}")
-            cur.execute(f"SET enable_bao_selection TO {bao_select}")
-            cur.execute(f"SET enable_bao_rewards TO {bao_reward}")
-            cur.execute("SET bao_num_arms TO 5")
-            cur.execute("SET statement_timeout TO 300000")
-            cur.execute(q)
-            cur.fetchall()
-            conn.close()
-            break
-        except:
-            sleep(1)
-            continue
+    try:
+        conn = psycopg2.connect(PG_CONNECTION_STR)
+        cur = conn.cursor()
+        cur.execute(f"SET enable_bao TO {bao_select or bao_reward}")
+        cur.execute(f"SET enable_bao_selection TO {bao_select}")
+        cur.execute(f"SET enable_bao_rewards TO {bao_reward}")
+        cur.execute("SET bao_num_arms TO 5")
+        cur.execute("SET statement_timeout TO 10000")
+        cur.execute(q)
+        cur.fetchall()
+        conn.close()
+    except:
+        sleep(1)
     stop = time()
     return stop - start
 
@@ -46,8 +43,8 @@ print("Read", len(queries), "queries.")
 print("Using Bao:", USE_BAO)
 
 random.seed(42)
-query_sequence = random.choices(queries, k=500)
-pg_chunks, *bao_chunks = list(chunks(query_sequence, 25))
+query_sequence = random.choices(queries, k=100)
+pg_chunks, *bao_chunks = list(chunks(query_sequence, 10))
 
 print("Executing queries using PG optimizer for initial training")
 
