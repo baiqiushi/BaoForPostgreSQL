@@ -265,12 +265,16 @@ static const char* node_type_to_string(NodeTag tag) {
     return "Index Only Scan";
   case T_BitmapIndexScan:
     return "Bitmap Index Scan";
+  case T_BitmapHeapScan:
+    return "Bitmap Heap Scan";
   case T_NestLoop:
     return "Nested Loop";
   case T_MergeJoin:
     return "Merge Join";
   case T_HashJoin:
     return "Hash Join";
+  case T_BitmapAnd:
+    return "BitmapAnd";
   default:
     return "Other";
   }
