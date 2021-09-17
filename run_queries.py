@@ -27,7 +27,8 @@ def run_query(sql, bao_select=False, bao_reward=False):
         cur.execute(q)
         cur.fetchall()
         conn.close()
-    except:
+    except Exception as e:
+        print(e)
         sleep(1)
     stop = time()
     return stop - start
