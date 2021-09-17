@@ -28,7 +28,6 @@ def run_query(sql, bao_select=False, bao_reward=False):
         cur.fetchall()
         conn.close()
     except Exception as e:
-        print(e)
         sleep(1)
     stop = time()
     return stop - start
@@ -44,8 +43,8 @@ print("Read", len(queries), "queries.")
 print("Using Bao:", USE_BAO)
 
 random.seed(42)
-query_sequence = random.choices(queries, k=100)
-pg_chunks, *bao_chunks = list(chunks(query_sequence, 10))
+query_sequence = random.choices(queries, k=len(queries))
+pg_chunks, *bao_chunks = list(chunks(query_sequence, 50))
 
 print("Executing queries using PG optimizer for initial training")
 

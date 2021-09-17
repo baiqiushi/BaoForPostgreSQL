@@ -1,0 +1,1 @@
+SELECT id,        coordinate   FROM tweets_100m t  WHERE to_tsvector('english', t.text)@@to_tsquery('english', 'stickmoticons')   AND t.create_at between '2016-09-06 21:33:12' and '2016-09-07 21:33:12'   AND t.coordinate <@ box '((-78.31290249999999,39.284082500000004),(-63.7957775,45.4443575))'

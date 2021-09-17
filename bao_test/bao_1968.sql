@@ -1,0 +1,1 @@
+SELECT id,        coordinate   FROM tweets_100m t  WHERE to_tsvector('english', t.text)@@to_tsquery('english', 'sacrifices')   AND t.create_at between '2016-07-26 14:45:33' and '2019-09-07 04:16:11'   AND t.coordinate <@ box '((-112.6675796925,32.6845034325),(-110.85293906749999,33.454537807499996))'

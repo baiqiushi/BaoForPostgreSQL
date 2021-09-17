@@ -1,1 +1,1 @@
-SELECT id,        coordinate   FROM tweets t  WHERE to_tsvector('english', t.text)@@to_tsquery('english', 'valdosta')   AND t.create_at between '2019-04-28 21:02:40' and '2019-09-07 04:16:11'   AND t.coordinate <@ box '((-83.32037687988282,30.751884106445313),(-83.2920231201172,30.763915893554685))'
+SELECT id,        coordinate   FROM tweets_100m t  WHERE to_tsvector('english', t.text)@@to_tsquery('english', 'map')   AND t.create_at between '2017-12-12 21:56:20' and '2017-12-22 21:56:20'   AND t.coordinate <@ box '((-119.33723699999999,34.979826),(-90.302987,47.300376))'
