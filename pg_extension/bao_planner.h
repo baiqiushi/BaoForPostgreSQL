@@ -339,10 +339,11 @@ static BaoPlanNode* transform_plan(PlannedStmt* stmt, Plan* node) {
     switch (list_length(splan->bitmapplans))
     {
       case 2:
-        result->left = transform_plan(stmt, (Plan *) linitial(splan->bitmapplans));
-        result->right = tranform_plan(stmt, (Plan *) lsecond(splan->bitmapplans));
       case 3:
-        // TODO - support BitmapAnd operators with 3 children
+        // TODO - support BitmapAnd operators with 3 children, currently ignore the third children.
+        result->left = transform_plan(stmt, (Plan *) linitial(splan->bitmapplans));
+        result->right = transform_plan(stmt, (Plan *) lsecond(splan->bitmapplans));
+        break;
     }
   }
 
