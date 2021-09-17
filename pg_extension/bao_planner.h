@@ -251,6 +251,8 @@ typedef struct BaoPlanNode {
 
   // Right child.
   struct BaoPlanNode* right;
+
+  // 
 } BaoPlanNode;
 
 // Transform the operator types we care about from their PG tag to a
@@ -329,6 +331,20 @@ static BaoPlanNode* transform_plan(PlannedStmt* stmt, Plan* node) {
   result->right = NULL;
   if (node->lefttree) result->left = transform_plan(stmt, node->lefttree);
   if (node->righttree) result->right = transform_plan(stmt, node->righttree);
+
+  // Special handling for BitmapAnd node
+  if (node->type == T_BitmapAnd)
+  {
+    BitmapAnd *splan = (BitmapAnd *) node;
+    switch (list_length(splan->bitmapplans))
+    {
+      case 2:
+        result->left = transform_plan(stmt, (Plan *) linitial(splan->bitmapplans));
+        result->right = tranform_plan(stmt, (Plan *) lsecond(splan->bitmapplans));
+      case 3:
+        // TODO - support BitmapAnd operators with 3 children
+    }
+  }
 
   return result;
 }
