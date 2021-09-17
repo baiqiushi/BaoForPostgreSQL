@@ -1,7 +1,7 @@
 import numpy as np
 
-JOIN_TYPES = ["Nested Loop", "Hash Join", "Merge Join"]
-LEAF_TYPES = ["Seq Scan", "Index Scan", "Index Only Scan", "Bitmap Index Scan"]
+JOIN_TYPES = ["Nested Loop", "Hash Join", "Merge Join", "BitmapAnd"]
+LEAF_TYPES = ["Seq Scan", "Index Scan", "Index Only Scan", "Bitmap Index Scan", "Bitmap Heap Scan"]
 ALL_TYPES = JOIN_TYPES + LEAF_TYPES
 
 
