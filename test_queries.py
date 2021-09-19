@@ -35,7 +35,7 @@ print("Read", len(queries), "queries.")
 print("Using Bao:", USE_BAO)
 
 for fp, q in queries:
-    q_time = run_query(q, bao_reward=False)
+    q_time = run_query(q, bao_reward=USE_BAO, bao_select=USE_BAO)
     # get query file name
     f = fp.split('/')[-1]
     # get query id from query file name 'bao_12.sql'
