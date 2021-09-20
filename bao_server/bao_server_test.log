@@ -1,0 +1,1897 @@
+Listening on localhost port 9381
+Spawning server process...
+Loading existing model
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+Accepted new model.
+Selected index 0 after 7ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013875
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01173
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012105
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012237
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012071
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01141
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010995
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010319
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011885
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010489
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011374
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010442
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010745
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011051
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011473
+Selected index 0 after 5ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013912
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.027062
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011639
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010979
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011546
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011756
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014935
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011795
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014721
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012633
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012455
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012309
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01178
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010579
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01344
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010647
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011644
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011452
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011813
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012901
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013788
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010524
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011655
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011015
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011706
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011539
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011165
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012451
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012227
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011898
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010582
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011453
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012214
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012296
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011085
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011302
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011187
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012192
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012462
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011753
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011315
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011401
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011664
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012653
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01033
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011692
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010738
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012901
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011126
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012111
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011621
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010508
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011559
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011444
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012505
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010192
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011063
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011316
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011367
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010906
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012387
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01174
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012109
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010854
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011483
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01139
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011617
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01244
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011501
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011387
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011279
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011718
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011648
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010193
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011416
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010453
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011152
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012034
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012137
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01221
+Selected index 0 after 50ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.016756
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010572
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011859
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010832
+Selected index 0 after 5ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010454
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013015
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011839
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012747
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01154
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011211
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011834
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011719
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012799
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013556
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011784
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01104
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014434
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010084
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01171
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010658
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011444
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012238
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010036
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013073
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011848
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011274
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010656
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011296
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010954
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01082
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010251
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011373
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011279
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010912
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013473
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011503
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011017
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014147
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011823
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01126
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01004
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010113
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013114
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010931
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010913
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013655
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011543
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010447
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010966
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010654
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011281
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011844
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011798
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011364
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010756
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01388
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01406
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012435
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010839
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.015137
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010953
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012986
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012486
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010485
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012489
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010296
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011792
+Selected index 0 after 5ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.015996
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014865
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.009997
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012316
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012356
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011877
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012566
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012208
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012281
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012387
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011999
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010233
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012033
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010533
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011989
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012258
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010156
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011345
+Selected index 0 after 4ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012949
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011075
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010797
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012113
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010257
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.022341
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01405
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011764
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011028
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.024166
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010911
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013477
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012661
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012148
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012529
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012273
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011562
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012091
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012478
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011484
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011269
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010881
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011785
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011615
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010802
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013835
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012001
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01027
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011805
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01253
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011775
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012079
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01169
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012187
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.009956
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012349
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011766
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011597
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012345
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010612
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01152
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01192
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010836
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01393
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011943
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011041
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012146
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01173
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011285
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012138
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01103
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010724
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013225
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011167
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010828
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011713
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011961
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010001
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012757
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013139
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010803
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010491
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.015044
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011735
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.03114
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010334
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010958
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010491
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012883
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011181
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010671
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010998
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011642
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011558
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01166
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011973
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013026
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012559
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011905
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011286
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011544
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.022191
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010777
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012912
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010991
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010844
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011649
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010859
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011384
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012274
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010554
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010451
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012075
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010375
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010985
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012158
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011551
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010151
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.018141
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012702
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011446
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011774
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010171
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011081
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011739
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011216
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011749
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013656
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01181
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010699
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011479
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010508
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010713
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011015
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01015
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014707
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011364
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011663
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010995
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011858
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011235
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010498
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.025932
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011109
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011047
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012219
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010618
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011234
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011825
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013821
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010902
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012107
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01151
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010909
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010882
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01226
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010349
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011053
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010645
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011757
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011603
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01146
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011008
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011994
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013591
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013391
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012314
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012086
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011969
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011461
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011826
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012339
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011619
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010613
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012362
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011552
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011173
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01407
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012312
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012191
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.021988
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010392
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011381
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01175
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010166
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012833
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011282
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010197
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010407
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010678
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011553
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011446
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010391
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011069
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010441
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010891
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011904
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011427
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010749
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010944
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011126
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012162
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.022232
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01113
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01159
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013689
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013402
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014477
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012535
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012873
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013497
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012257
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012354
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010799
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011772
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013992
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012357
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012778
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011653
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012945
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012535
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014514
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013121
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011916
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012028
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012248
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011753
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012165
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010577
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01158
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011351
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011174
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013516
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010543
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010539
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011348
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011622
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011013
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012263
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013325
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011467
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010863
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.021885
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011849
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011907
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011112
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012952
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.011304
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010868
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.013021
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.014652
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012293
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.012004
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010754
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.01139
+Selected index 0 after 3ms Predicted reward / PG: 0.59111226 / 0.59111226
+Logged reward of 0.010962
+Selected index 0 after 4ms Predicted reward / PG: 76.11522 / 76.11522
+Logged reward of 1499.304505
+Selected index 0 after 3ms Predicted reward / PG: 75.97709 / 75.97709
+Logged reward of 16.964986
+Selected index 0 after 3ms Predicted reward / PG: 116.85263 / 116.85263
+Logged reward of 3783.790068
+Selected index 0 after 3ms Predicted reward / PG: 156.56262 / 156.56262
+Logged reward of 2098.357212
+Selected index 0 after 3ms Predicted reward / PG: 75.93969 / 75.93969
+Logged reward of 4.911213
+Selected index 0 after 3ms Predicted reward / PG: 75.93973 / 75.93973
+Logged reward of 26.172759
+Selected index 0 after 3ms Predicted reward / PG: 90.5644 / 90.5644
+Logged reward of 91.812071
+Selected index 0 after 3ms Predicted reward / PG: 110.65748 / 110.65748
+Logged reward of 2710.444983
+Selected index 0 after 3ms Predicted reward / PG: 75.98513 / 75.98513
+Logged reward of 8.787962
+Selected index 0 after 3ms Predicted reward / PG: 109.37879 / 109.37879
+Logged reward of 4545.53303
+Selected index 0 after 3ms Predicted reward / PG: 100.29478 / 100.29478
+Logged reward of 72.002722
+Selected index 0 after 3ms Predicted reward / PG: 119.34043 / 119.34043
+Logged reward of 198.611986
+Selected index 0 after 3ms Predicted reward / PG: 76.165535 / 76.165535
+Logged reward of 327.38309
+Selected index 0 after 3ms Predicted reward / PG: 101.324684 / 101.324684
+Logged reward of 486.746595
+Selected index 0 after 3ms Predicted reward / PG: 76.224846 / 76.224846
+Logged reward of 4419.917834
+Selected index 0 after 3ms Predicted reward / PG: 116.88163 / 116.88163
+Selected index 0 after 3ms Predicted reward / PG: 234.1934 / 234.1934
+Logged reward of 729.683539
+Selected index 0 after 3ms Predicted reward / PG: 204.32948 / 204.32948
+Logged reward of 507.611711
+Selected index 0 after 3ms Predicted reward / PG: 76.94818 / 76.94818
+Logged reward of 70.757889
+Selected index 0 after 3ms Predicted reward / PG: 76.95651 / 76.95651
+Logged reward of 693.459694
+Selected index 0 after 3ms Predicted reward / PG: 110.55615 / 110.55615
+Selected index 0 after 3ms Predicted reward / PG: 78.41962 / 78.41962
+Logged reward of 48.288199
+Selected index 0 after 3ms Predicted reward / PG: 123.77782 / 123.77782
+Logged reward of 31.877829
+Selected index 0 after 3ms Predicted reward / PG: 78.42128 / 78.42128
+Logged reward of 10.624519
+Selected index 0 after 3ms Predicted reward / PG: 78.421326 / 78.421326
+Logged reward of 618.378996
+Selected index 0 after 4ms Predicted reward / PG: 78.50839 / 78.50839
+Logged reward of 37.448747
+Selected index 0 after 5ms Predicted reward / PG: 123.23032 / 123.23032
+Logged reward of 40.338497
+Selected index 0 after 3ms Predicted reward / PG: 303.8973 / 303.8973
+Logged reward of 968.532538
+Selected index 0 after 4ms Predicted reward / PG: 93.514946 / 93.514946
+Logged reward of 55.226669
+Selected index 0 after 3ms Predicted reward / PG: 122.48623 / 122.48623
+Logged reward of 87.511514
+Selected index 0 after 3ms Predicted reward / PG: 143.46803 / 143.46803
+Logged reward of 222.098416
+Selected index 0 after 3ms Predicted reward / PG: 154.0215 / 154.0215
+Logged reward of 451.904651
+Selected index 0 after 3ms Predicted reward / PG: 173.3197 / 173.3197
+Logged reward of 413.090696
+Selected index 0 after 3ms Predicted reward / PG: 123.4379 / 123.4379
+Logged reward of 150.762207
+Selected index 0 after 3ms Predicted reward / PG: 78.561195 / 78.561195
+Logged reward of 60.109795
+Selected index 0 after 3ms Predicted reward / PG: 78.56563 / 78.56563
+Selected index 0 after 3ms Predicted reward / PG: 77.935486 / 77.935486
+Logged reward of 98.185883
+Selected index 0 after 3ms Predicted reward / PG: 77.93451 / 77.93451
+Logged reward of 40.208961
+Selected index 0 after 3ms Predicted reward / PG: 77.93018 / 77.93018
+Logged reward of 3585.724477
+Selected index 0 after 3ms Predicted reward / PG: 76.87938 / 76.87938
+Logged reward of 675.725349
+Selected index 0 after 3ms Predicted reward / PG: 672.808 / 672.808
+Logged reward of 2027.334129
+Selected index 0 after 3ms Predicted reward / PG: 192.2875 / 192.2875
+Logged reward of 437.868405
+Selected index 0 after 3ms Predicted reward / PG: 139.06949 / 139.06949
+Logged reward of 327.132074
+Selected index 0 after 3ms Predicted reward / PG: 89.62166 / 89.62166
+Logged reward of 657.85795
+Selected index 0 after 3ms Predicted reward / PG: 76.493675 / 76.493675
+Logged reward of 8367.032168
+Selected index 0 after 3ms Predicted reward / PG: 112.197876 / 112.197876
+Logged reward of 104.348661
+Selected index 0 after 3ms Predicted reward / PG: 105.15217 / 105.15217
+Selected index 0 after 3ms Predicted reward / PG: 107.52259 / 107.52259
+Logged reward of 240.043646
+Selected index 0 after 3ms Predicted reward / PG: 78.30892 / 78.30892
+Logged reward of 56.036208
+Selected index 0 after 3ms Predicted reward / PG: 78.530846 / 78.530846
+Logged reward of 230.715888
+Selected index 0 after 3ms Predicted reward / PG: 78.529854 / 78.529854
+Logged reward of 3090.501564
+Selected index 0 after 3ms Predicted reward / PG: 120.793976 / 120.793976
+Logged reward of 211.136434
+Selected index 0 after 3ms Predicted reward / PG: 80.10533 / 80.10533
+Logged reward of 37.665774
+Selected index 0 after 3ms Predicted reward / PG: 80.104355 / 80.104355
+Logged reward of 880.951599
+Selected index 0 after 3ms Predicted reward / PG: 148.792 / 148.792
+Logged reward of 295.626011
+Selected index 0 after 3ms Predicted reward / PG: 111.93505 / 111.93505
+Logged reward of 497.492991
+Selected index 0 after 3ms Predicted reward / PG: 79.87307 / 79.87307
+Logged reward of 10.831002
+Selected index 0 after 3ms Predicted reward / PG: 79.87092 / 79.87092
+Logged reward of 4.942501
+Selected index 0 after 3ms Predicted reward / PG: 79.87006 / 79.87006
+Logged reward of 590.861557
+Selected index 0 after 3ms Predicted reward / PG: 107.07965 / 107.07965
+Selected index 0 after 3ms Predicted reward / PG: 76.162636 / 76.162636
+Logged reward of 6.488691
+Selected index 0 after 3ms Predicted reward / PG: 76.16256 / 76.16256
+Logged reward of 9.603004
+Selected index 0 after 3ms Predicted reward / PG: 76.16241 / 76.16241
+Logged reward of 24.382891
+Selected index 0 after 3ms Predicted reward / PG: 76.16238 / 76.16238
+Selected index 0 after 3ms Predicted reward / PG: 120.048195 / 120.048195
+Logged reward of 35.325776
+Selected index 0 after 3ms Predicted reward / PG: 76.049065 / 76.049065
+Logged reward of 9.921218
+Selected index 0 after 3ms Predicted reward / PG: 95.40069 / 95.40069
+Logged reward of 58.269681
+Selected index 0 after 3ms Predicted reward / PG: 120.04635 / 120.04635
+Logged reward of 33.219142
+Selected index 0 after 3ms Predicted reward / PG: 76.0495 / 76.0495
+Logged reward of 11.437112
+Selected index 0 after 3ms Predicted reward / PG: 76.04947 / 76.04947
+Selected index 0 after 3ms Predicted reward / PG: 76.16999 / 76.16999
+Logged reward of 178.739615
+Selected index 0 after 3ms Predicted reward / PG: 76.16341 / 76.16341
+Logged reward of 21.527911
+Selected index 0 after 3ms Predicted reward / PG: 76.16307 / 76.16307
+Logged reward of 5.754526
+Selected index 0 after 3ms Predicted reward / PG: 76.16275 / 76.16275
+Logged reward of 31.696366
+Selected index 0 after 3ms Predicted reward / PG: 76.16245 / 76.16245
+Logged reward of 4.466451
+Selected index 0 after 3ms Predicted reward / PG: 119.22377 / 119.22377
+Logged reward of 33.134308
+Selected index 0 after 3ms Predicted reward / PG: 76.161674 / 76.161674
+Logged reward of 15.63307
+Selected index 0 after 3ms Predicted reward / PG: 76.161354 / 76.161354
+Logged reward of 324.635134
+Selected index 0 after 3ms Predicted reward / PG: 76.12548 / 76.12548
+Logged reward of 23.836694
+Selected index 0 after 3ms Predicted reward / PG: 117.35006 / 117.35006
+Logged reward of 3283.812684
+Selected index 0 after 3ms Predicted reward / PG: 133.27507 / 133.27507
+Logged reward of 197.503031
+Selected index 0 after 3ms Predicted reward / PG: 92.99382 / 92.99382
+Logged reward of 140.541144
+Selected index 0 after 3ms Predicted reward / PG: 304.27933 / 304.27933
+Logged reward of 949.095662
+Selected index 0 after 3ms Predicted reward / PG: 88.4269 / 88.4269
+Logged reward of 9748.414588
+Selected index 0 after 3ms Predicted reward / PG: 75.88552 / 75.88552
+Logged reward of 48.95777
+Selected index 0 after 3ms Predicted reward / PG: 75.88531 / 75.88531
+Logged reward of 1037.767833
+Selected index 0 after 3ms Predicted reward / PG: 75.873314 / 75.873314
+Logged reward of 5.96334
+Selected index 0 after 3ms Predicted reward / PG: 126.77717 / 126.77717
+Logged reward of 36.603587
+Selected index 0 after 3ms Predicted reward / PG: 75.87867 / 75.87867
+Logged reward of 85.782712
+Selected index 0 after 3ms Predicted reward / PG: 98.126564 / 98.126564
+Logged reward of 15.382574
+Selected index 0 after 3ms Predicted reward / PG: 75.879906 / 75.879906
+Logged reward of 34.987246
+Selected index 0 after 3ms Predicted reward / PG: 139.14967 / 139.14967
+Logged reward of 311.92171
+Selected index 0 after 3ms Predicted reward / PG: 75.87984 / 75.87984
+Logged reward of 3.830101
+Selected index 0 after 3ms Predicted reward / PG: 341.87112 / 341.87112
+Logged reward of 223.608631
+Selected index 0 after 3ms Predicted reward / PG: 75.94677 / 75.94677
+Logged reward of 3727.422927
+Selected index 0 after 3ms Predicted reward / PG: 216.38417 / 216.38417
+Logged reward of 576.821256
+Selected index 0 after 3ms Predicted reward / PG: 188.6194 / 188.6194
+Logged reward of 501.497776
+Selected index 0 after 3ms Predicted reward / PG: 80.03802 / 80.03802
+Logged reward of 60.420705
+Selected index 0 after 3ms Predicted reward / PG: 80.09504 / 80.09504
+Logged reward of 22.026292
+Selected index 0 after 3ms Predicted reward / PG: 80.07965 / 80.07965
+Logged reward of 2574.733713
+Selected index 0 after 3ms Predicted reward / PG: 109.69498 / 109.69498
+Logged reward of 94.306555
+Selected index 0 after 3ms Predicted reward / PG: 79.30083 / 79.30083
+Selected index 0 after 3ms Predicted reward / PG: 100.89791 / 100.89791
+Logged reward of 59.86839
+Selected index 0 after 3ms Predicted reward / PG: 128.04256 / 128.04256
+Logged reward of 376.378854
+Selected index 0 after 3ms Predicted reward / PG: 165.13823 / 165.13823
+Logged reward of 381.904748
+Selected index 0 after 3ms Predicted reward / PG: 115.6122 / 115.6122
+Logged reward of 106.653161
+Selected index 0 after 3ms Predicted reward / PG: 79.4879 / 79.4879
+Logged reward of 40.043142
+Selected index 0 after 3ms Predicted reward / PG: 79.47477 / 79.47477
+Logged reward of 224.273107
+Selected index 0 after 3ms Predicted reward / PG: 154.8604 / 154.8604
+Logged reward of 52.841603
+Selected index 0 after 3ms Predicted reward / PG: 216.04083 / 216.04083
+Logged reward of 513.051048
+Selected index 0 after 3ms Predicted reward / PG: 79.26274 / 79.26274
+Logged reward of 22.630029
+Selected index 0 after 3ms Predicted reward / PG: 79.26247 / 79.26247
+Logged reward of 26.469728
+Selected index 0 after 3ms Predicted reward / PG: 149.11385 / 149.11385
+Logged reward of 234.213689
+Selected index 0 after 3ms Predicted reward / PG: 141.28395 / 141.28395
+Logged reward of 195.174318
+Selected index 0 after 3ms Predicted reward / PG: 79.2501 / 79.2501
+Logged reward of 377.980571
+Selected index 0 after 3ms Predicted reward / PG: 174.4479 / 174.4479
+Logged reward of 359.532077
+Selected index 0 after 3ms Predicted reward / PG: 78.95614 / 78.95614
+Logged reward of 43.818273
+Selected index 0 after 3ms Predicted reward / PG: 78.95191 / 78.95191
+Logged reward of 15.583148
+Selected index 0 after 3ms Predicted reward / PG: 98.23248 / 98.23248
+Logged reward of 544.466935
+Selected index 0 after 3ms Predicted reward / PG: 291.93317 / 291.93317
+Logged reward of 883.751408
+Selected index 0 after 3ms Predicted reward / PG: 78.59936 / 78.59936
+Logged reward of 9.759916
+Selected index 0 after 3ms Predicted reward / PG: 228.61089 / 228.61089
+Logged reward of 1155.750007
+Selected index 0 after 3ms Predicted reward / PG: 78.23514 / 78.23514
+Logged reward of 4.362717
+Selected index 0 after 3ms Predicted reward / PG: 129.77339 / 129.77339
+Logged reward of 38.940504
+Selected index 0 after 3ms Predicted reward / PG: 881.7239 / 881.7239
+Logged reward of 3729.390432
+Selected index 0 after 3ms Predicted reward / PG: 78.15912 / 78.15912
+Logged reward of 126.09519
+Selected index 0 after 3ms Predicted reward / PG: 78.157875 / 78.157875
+Logged reward of 36.486235
+Selected index 0 after 3ms Predicted reward / PG: 118.19807 / 118.19807
+Logged reward of 309.933592
+Selected index 0 after 3ms Predicted reward / PG: 121.49873 / 121.49873
+Logged reward of 135.680072
+Selected index 0 after 3ms Predicted reward / PG: 78.058586 / 78.058586
+Logged reward of 59.176538
+Selected index 0 after 3ms Predicted reward / PG: 124.149475 / 124.149475
+Logged reward of 26.70631
+Selected index 0 after 3ms Predicted reward / PG: 232.66776 / 232.66776
+Logged reward of 211.87775
+Selected index 0 after 3ms Predicted reward / PG: 78.006805 / 78.006805
+Logged reward of 526.341144
+Selected index 0 after 3ms Predicted reward / PG: 126.84391 / 126.84391
+Logged reward of 22.050738
+Selected index 0 after 3ms Predicted reward / PG: 78.64637 / 78.64637
+Logged reward of 2878.615554
+Selected index 0 after 3ms Predicted reward / PG: 128.15945 / 128.15945
+Logged reward of 227.978937
+Selected index 0 after 3ms Predicted reward / PG: 80.80812 / 80.80812
+Logged reward of 252.70261
+Selected index 0 after 3ms Predicted reward / PG: 115.77274 / 115.77274
+Logged reward of 134.956659
+Selected index 0 after 3ms Predicted reward / PG: 133.17676 / 133.17676
+Logged reward of 43.656119
+Selected index 0 after 3ms Predicted reward / PG: 80.51137 / 80.51137
+Logged reward of 6095.982799
+Selected index 0 after 3ms Predicted reward / PG: 94.687584 / 94.687584
+Logged reward of 718.2521
+Selected index 0 after 3ms Predicted reward / PG: 170.2004 / 170.2004
+Logged reward of 214.48451
+Selected index 0 after 3ms Predicted reward / PG: 95.50726 / 95.50726
+Logged reward of 19.334394
+Selected index 0 after 3ms Predicted reward / PG: 103.702095 / 103.702095
+Logged reward of 220.393103
+Selected index 0 after 3ms Predicted reward / PG: 126.455154 / 126.455154
+Logged reward of 253.081542
+Selected index 0 after 35ms Predicted reward / PG: 589.31384 / 589.31384
+Logged reward of 1932.651551
+Selected index 0 after 3ms Predicted reward / PG: 93.793015 / 93.793015
+Logged reward of 31.598328
+Selected index 0 after 3ms Predicted reward / PG: 291.70392 / 291.70392
+Logged reward of 864.165046
+Selected index 0 after 3ms Predicted reward / PG: 163.27313 / 163.27313
+Logged reward of 367.851776
+Selected index 0 after 3ms Predicted reward / PG: 92.9798 / 92.9798
+Logged reward of 21.630622
+Selected index 0 after 3ms Predicted reward / PG: 125.10961 / 125.10961
+Logged reward of 114.490094
+Selected index 0 after 3ms Predicted reward / PG: 140.65411 / 140.65411
+Logged reward of 46.916264
+Selected index 0 after 3ms Predicted reward / PG: 766.4864 / 766.4864
+Logged reward of 3950.284759
+Selected index 0 after 3ms Predicted reward / PG: 120.94956 / 120.94956
+Logged reward of 108.776432
+Selected index 0 after 3ms Predicted reward / PG: 91.287605 / 91.287605
+Logged reward of 17.290792
+Selected index 0 after 3ms Predicted reward / PG: 91.23553 / 91.23553
+Logged reward of 21.485292
+Selected index 0 after 3ms Predicted reward / PG: 120.020966 / 120.020966
+Logged reward of 88.288996
+Selected index 0 after 3ms Predicted reward / PG: 91.16628 / 91.16628
+Selected index 0 after 3ms Predicted reward / PG: 111.61605 / 111.61605
+Logged reward of 34.930031
+Selected index 0 after 3ms Predicted reward / PG: 95.001236 / 95.001236
+Logged reward of 62.884025
+Selected index 0 after 3ms Predicted reward / PG: 94.70474 / 94.70474
+Logged reward of 17.497445
+Selected index 0 after 3ms Predicted reward / PG: 161.09312 / 161.09312
+Logged reward of 323.738452
+Selected index 0 after 3ms Predicted reward / PG: 143.40845 / 143.40845
+Logged reward of 24.791644
+Selected index 0 after 3ms Predicted reward / PG: 172.01222 / 172.01222
+Logged reward of 5937.014768
+Selected index 0 after 3ms Predicted reward / PG: 126.48425 / 126.48425
+Logged reward of 120.422984
+Selected index 0 after 3ms Predicted reward / PG: 86.36837 / 86.36837
+Logged reward of 51.387214
+Selected index 0 after 3ms Predicted reward / PG: 128.59074 / 128.59074
+Logged reward of 136.842834
+Selected index 0 after 3ms Predicted reward / PG: 86.34908 / 86.34908
+Logged reward of 2.80065
+Selected index 0 after 3ms Predicted reward / PG: 86.34804 / 86.34804
+Logged reward of 19.213427
+Selected index 0 after 3ms Predicted reward / PG: 86.338875 / 86.338875
+Logged reward of 85.141208
+Selected index 0 after 3ms Predicted reward / PG: 86.32368 / 86.32368
+Logged reward of 2641.923374
+Selected index 0 after 3ms Predicted reward / PG: 87.63384 / 87.63384
+Logged reward of 190.837573
+Selected index 0 after 3ms Predicted reward / PG: 87.632614 / 87.632614
+Logged reward of 6.349773
+Selected index 0 after 3ms Predicted reward / PG: 87.63038 / 87.63038
+Logged reward of 243.344664
+Selected index 0 after 3ms Predicted reward / PG: 162.99928 / 162.99928
+Logged reward of 58.519765
+Selected index 0 after 3ms Predicted reward / PG: 87.003654 / 87.003654
+Logged reward of 5.179071
+Selected index 0 after 3ms Predicted reward / PG: 87.00256 / 87.00256
+Logged reward of 20.65694
+Selected index 0 after 3ms Predicted reward / PG: 86.99821 / 86.99821
+Logged reward of 16.881196
+Selected index 0 after 3ms Predicted reward / PG: 329.1176 / 329.1176
+Logged reward of 663.074657
+Selected index 0 after 3ms Predicted reward / PG: 86.014595 / 86.014595
+Logged reward of 3.719957
+Selected index 0 after 3ms Predicted reward / PG: 151.88814 / 151.88814
+Logged reward of 22.009957
+Selected index 0 after 3ms Predicted reward / PG: 86.01269 / 86.01269
+Logged reward of 497.292839
+Selected index 0 after 3ms Predicted reward / PG: 85.157104 / 85.157104
+Logged reward of 16.101472
+Selected index 0 after 3ms Predicted reward / PG: 106.42092 / 106.42092
+Logged reward of 208.522925
+Selected index 0 after 3ms Predicted reward / PG: 84.94788 / 84.94788
+Logged reward of 17.497075
+Selected index 0 after 3ms Predicted reward / PG: 84.94374 / 84.94374
+Logged reward of 87.1569
+Selected index 0 after 3ms Predicted reward / PG: 84.90224 / 84.90224
+Logged reward of 212.202764
+Selected index 0 after 3ms Predicted reward / PG: 84.89737 / 84.89737
+Logged reward of 4.052322
+Selected index 0 after 3ms Predicted reward / PG: 158.21223 / 158.21223
+Logged reward of 210.571104
+Selected index 0 after 3ms Predicted reward / PG: 84.88925 / 84.88925
+Logged reward of 46.992223
+Selected index 0 after 3ms Predicted reward / PG: 121.07999 / 121.07999
+Logged reward of 185.328184
+Selected index 0 after 3ms Predicted reward / PG: 84.74321 / 84.74321
+Logged reward of 76.969972
+Selected index 0 after 3ms Predicted reward / PG: 168.61676 / 168.61676
+Logged reward of 450.295351
+Selected index 0 after 3ms Predicted reward / PG: 84.36683 / 84.36683
+Logged reward of 5784.261935
+Selected index 0 after 3ms Predicted reward / PG: 242.54558 / 242.54558
+Logged reward of 138.092834
+Selected index 0 after 3ms Predicted reward / PG: 86.51218 / 86.51218
+Logged reward of 34.367658
+Selected index 0 after 3ms Predicted reward / PG: 86.49239 / 86.49239
+Logged reward of 422.08249
+Selected index 0 after 3ms Predicted reward / PG: 86.09023 / 86.09023
+Logged reward of 124.258839
+Selected index 0 after 3ms Predicted reward / PG: 85.83408 / 85.83408
+Logged reward of 9.770493
+Selected index 0 after 3ms Predicted reward / PG: 85.83309 / 85.83309
+Logged reward of 32.459514
+Selected index 0 after 3ms Predicted reward / PG: 85.80274 / 85.80274
+Logged reward of 8.022301
+Selected index 0 after 3ms Predicted reward / PG: 85.80084 / 85.80084
+Logged reward of 30.41415
+Selected index 0 after 3ms Predicted reward / PG: 128.3942 / 128.3942
+Logged reward of 276.902116
+Selected index 0 after 3ms Predicted reward / PG: 85.4281 / 85.4281
+Logged reward of 21.277753
+Selected index 0 after 3ms Predicted reward / PG: 85.419655 / 85.419655
+Logged reward of 11.041919
+Selected index 0 after 3ms Predicted reward / PG: 85.41883 / 85.41883
+Logged reward of 2.912285
+Selected index 0 after 3ms Predicted reward / PG: 85.41792 / 85.41792
+Logged reward of 3252.71443
+Selected index 0 after 3ms Predicted reward / PG: 114.016396 / 114.016396
+Logged reward of 94.894729
+Selected index 0 after 3ms Predicted reward / PG: 85.24819 / 85.24819
+Selected index 0 after 3ms Predicted reward / PG: 106.745544 / 106.745544
+Logged reward of 22.589096
+Selected index 0 after 3ms Predicted reward / PG: 106.5888 / 106.5888
+Logged reward of 3.781141
+Selected index 0 after 3ms Predicted reward / PG: 155.91647 / 155.91647
+Logged reward of 126.573715
+Selected index 0 after 3ms Predicted reward / PG: 144.8122 / 144.8122
+Selected index 0 after 3ms Predicted reward / PG: 582.97815 / 582.97815
+Logged reward of 893.809484
+Selected index 0 after 3ms Predicted reward / PG: 99.19666 / 99.19666
+Logged reward of 45.652622
+Selected index 0 after 3ms Predicted reward / PG: 116.0633 / 116.0633
+Logged reward of 192.314932
+Selected index 0 after 3ms Predicted reward / PG: 98.722015 / 98.722015
+Logged reward of 276.980951
+Selected index 0 after 3ms Predicted reward / PG: 98.53564 / 98.53564
+Logged reward of 23.716574
+Selected index 0 after 3ms Predicted reward / PG: 98.47677 / 98.47677
+Logged reward of 758.12448
+Selected index 0 after 3ms Predicted reward / PG: 97.859146 / 97.859146
+Selected index 0 after 3ms Predicted reward / PG: 177.42508 / 177.42508
+Logged reward of 2116.355449
+Selected index 0 after 3ms Predicted reward / PG: 135.02795 / 135.02795
+Logged reward of 160.530868
+Selected index 0 after 3ms Predicted reward / PG: 90.078384 / 90.078384
+Logged reward of 14.058745
+Selected index 0 after 3ms Predicted reward / PG: 110.377716 / 110.377716
+Logged reward of 61.032874
+Selected index 0 after 3ms Predicted reward / PG: 235.31589 / 235.31589
+Logged reward of 565.181549
+Selected index 0 after 3ms Predicted reward / PG: 89.91303 / 89.91303
+Logged reward of 59.768359
+Selected index 0 after 3ms Predicted reward / PG: 138.59389 / 138.59389
+Logged reward of 210.579316
+Selected index 0 after 3ms Predicted reward / PG: 89.87684 / 89.87684
+Logged reward of 32.843284
+Selected index 0 after 3ms Predicted reward / PG: 89.87415 / 89.87415
+Logged reward of 20.919138
+Selected index 0 after 3ms Predicted reward / PG: 89.87272 / 89.87272
+Logged reward of 193.252183
+Selected index 0 after 3ms Predicted reward / PG: 89.32309 / 89.32309
+Logged reward of 375.119427
+Selected index 0 after 3ms Predicted reward / PG: 219.36981 / 219.36981
+Logged reward of 556.454844
+Selected index 0 after 3ms Predicted reward / PG: 165.83818 / 165.83818
+Logged reward of 215.691581
+Selected index 0 after 3ms Predicted reward / PG: 88.707756 / 88.707756
+Logged reward of 4570.036662
+Selected index 0 after 3ms Predicted reward / PG: 153.76321 / 153.76321
+Logged reward of 431.796422
+Selected index 0 after 3ms Predicted reward / PG: 87.8655 / 87.8655
+Selected index 0 after 3ms Predicted reward / PG: 95.45894 / 95.45894
+Logged reward of 6730.369622
+Selected index 0 after 3ms Predicted reward / PG: 120.073074 / 120.073074
+Logged reward of 14.423437
+Selected index 0 after 3ms Predicted reward / PG: 76.14402 / 76.14402
+Logged reward of 53.260207
+Selected index 0 after 3ms Predicted reward / PG: 76.14292 / 76.14292
+Logged reward of 30.257433
+Selected index 0 after 3ms Predicted reward / PG: 137.09889 / 137.09889
+Logged reward of 278.852595
+Selected index 0 after 4ms Predicted reward / PG: 76.135925 / 76.135925
+Logged reward of 35.927091
+Selected index 0 after 9ms Predicted reward / PG: 144.2954 / 144.2954
+Logged reward of 112.543513
+Selected index 0 after 4ms Predicted reward / PG: 76.12599 / 76.12599
+Logged reward of 43.02937
+Selected index 0 after 3ms Predicted reward / PG: 146.92015 / 146.92015
+Logged reward of 288.755799
+Selected index 0 after 3ms Predicted reward / PG: 76.120926 / 76.120926
+Logged reward of 3.469778
+Selected index 0 after 3ms Predicted reward / PG: 2.3242536 / 2.3242536
+Logged reward of 48.485646
+Selected index 0 after 3ms Predicted reward / PG: 88.70143 / 88.70143
+Logged reward of 34.182502
+Selected index 0 after 3ms Predicted reward / PG: 89.28796 / 89.28796
+Logged reward of 82.820019
+Selected index 0 after 3ms Predicted reward / PG: 76.10635 / 76.10635
+Logged reward of 25.293615
+Selected index 0 after 3ms Predicted reward / PG: 76.10629 / 76.10629
+Selected index 0 after 3ms Predicted reward / PG: 76.00832 / 76.00832
+Logged reward of 2630.110331
+Selected index 0 after 3ms Predicted reward / PG: 110.20589 / 110.20589
+Logged reward of 750.385973
+Selected index 0 after 3ms Predicted reward / PG: 75.91791 / 75.91791
+Logged reward of 39.734536
+Selected index 0 after 4ms Predicted reward / PG: 75.91794 / 75.91794
+Logged reward of 66.748661
+Selected index 0 after 4ms Predicted reward / PG: 75.91874 / 75.91874
+Logged reward of 6018.370768
+Selected index 0 after 3ms Predicted reward / PG: 75.91006 / 75.91006
+Logged reward of 16.665177
+Selected index 0 after 3ms Predicted reward / PG: 75.91009 / 75.91009
+Logged reward of 2065.927458
+Selected index 0 after 3ms Predicted reward / PG: 75.98314 / 75.98314
+Logged reward of 187.966567
+Selected index 0 after 3ms Predicted reward / PG: 75.990295 / 75.990295
+Logged reward of 71.947812
+Selected index 0 after 4ms Predicted reward / PG: 75.99133 / 75.99133
+Logged reward of 10.238579
+Selected index 0 after 4ms Predicted reward / PG: 136.86195 / 136.86195
+Logged reward of 211.435963
+Selected index 0 after 3ms Predicted reward / PG: 75.99173 / 75.99173
+Logged reward of 22.486414
+Selected index 0 after 3ms Predicted reward / PG: 139.64627 / 139.64627
+Logged reward of 226.167573
+Selected index 0 after 3ms Predicted reward / PG: 75.99188 / 75.99188
+Logged reward of 77.060138
+Selected index 0 after 3ms Predicted reward / PG: 161.96718 / 161.96718
+Logged reward of 363.749443
+Selected index 0 after 3ms Predicted reward / PG: 122.56747 / 122.56747
+Logged reward of 34.417114
+Selected index 0 after 6ms Predicted reward / PG: 146.50134 / 146.50134
+Logged reward of 139.728998
+Selected index 0 after 3ms Predicted reward / PG: 75.997086 / 75.997086
+Logged reward of 17.241653
+Selected index 0 after 3ms Predicted reward / PG: 92.33278 / 92.33278
+Logged reward of 104.391927
+Selected index 0 after 3ms Predicted reward / PG: 260.8679 / 260.8679
+Logged reward of 970.509291
+Selected index 0 after 3ms Predicted reward / PG: 117.04739 / 117.04739
+Logged reward of 206.777511
+Selected index 0 after 4ms Predicted reward / PG: 303.148 / 303.148
+Logged reward of 994.151296
+Selected index 0 after 3ms Predicted reward / PG: 76.01156 / 76.01156
+Logged reward of 504.267927
+Selected index 0 after 3ms Predicted reward / PG: 154.11667 / 154.11667
+Logged reward of 771.831116
+Selected index 0 after 3ms Predicted reward / PG: 76.06604 / 76.06604
+Logged reward of 993.147718
+Selected index 0 after 3ms Predicted reward / PG: 76.072395 / 76.072395
+Selected index 0 after 5ms Predicted reward / PG: 114.00758 / 114.00758
+Logged reward of 118.696015
+Selected index 0 after 3ms Predicted reward / PG: 76.10511 / 76.10511
+Logged reward of 23.786392
+Selected index 0 after 3ms Predicted reward / PG: 76.10515 / 76.10515
+Logged reward of 9.490213
+Selected index 0 after 3ms Predicted reward / PG: 76.110954 / 76.110954
+Logged reward of 515.26814
+Selected index 0 after 3ms Predicted reward / PG: 76.56761 / 76.56761
+Logged reward of 12.538309
+Selected index 0 after 3ms Predicted reward / PG: 76.56755 / 76.56755
+Logged reward of 6.44846
+Selected index 0 after 3ms Predicted reward / PG: 76.56743 / 76.56743
+Logged reward of 6.830573
+Selected index 0 after 3ms Predicted reward / PG: 76.56729 / 76.56729
+Logged reward of 9.655102
+Selected index 0 after 3ms Predicted reward / PG: 120.82413 / 120.82413
+Logged reward of 103.35193
+Selected index 0 after 3ms Predicted reward / PG: 144.7763 / 144.7763
+Logged reward of 42.054221
+Selected index 0 after 3ms Predicted reward / PG: 76.55368 / 76.55368
+Logged reward of 1279.602345
+Selected index 0 after 3ms Predicted reward / PG: 289.99152 / 289.99152
+Logged reward of 1315.439608
+Selected index 0 after 3ms Predicted reward / PG: 77.1799 / 77.1799
+Logged reward of 84.105296
+Selected index 0 after 3ms Predicted reward / PG: 127.89969 / 127.89969
+Logged reward of 22.826123
+Selected index 0 after 3ms Predicted reward / PG: 77.18725 / 77.18725
+Logged reward of 7.038155
+Selected index 0 after 3ms Predicted reward / PG: 421.32974 / 421.32974
+Logged reward of 1788.845219
+Selected index 0 after 3ms Predicted reward / PG: 77.150345 / 77.150345
+Logged reward of 47.855458
+Selected index 0 after 3ms Predicted reward / PG: 421.3354 / 421.3354
+Logged reward of 1294.363757
+Selected index 0 after 3ms Predicted reward / PG: 98.02781 / 98.02781
+Logged reward of 68.704735
+Selected index 0 after 3ms Predicted reward / PG: 77.15672 / 77.15672
+Logged reward of 156.680039
+Selected index 0 after 3ms Predicted reward / PG: 77.13175 / 77.13175
+Logged reward of 97.363019
+Selected index 0 after 3ms Predicted reward / PG: 77.1284 / 77.1284
+Logged reward of 9.730408
+Selected index 0 after 3ms Predicted reward / PG: 206.90068 / 206.90068
+Logged reward of 498.607725
+Selected index 0 after 3ms Predicted reward / PG: 77.18955 / 77.18955
+Logged reward of 11.731255
+Selected index 0 after 3ms Predicted reward / PG: 117.46349 / 117.46349
+Logged reward of 154.414694
+Selected index 0 after 3ms Predicted reward / PG: 146.20378 / 146.20378
+Logged reward of 361.488299
+Selected index 0 after 3ms Predicted reward / PG: 121.84654 / 121.84654
+Logged reward of 38.99173
+Selected index 0 after 3ms Predicted reward / PG: 483.73245 / 483.73245
+Logged reward of 649.815047
+Selected index 0 after 3ms Predicted reward / PG: 122.501595 / 122.501595
+Logged reward of 124.694569
+Selected index 0 after 3ms Predicted reward / PG: 77.74278 / 77.74278
+Logged reward of 7533.090293
+Selected index 0 after 3ms Predicted reward / PG: 88.95298 / 88.95298
+Logged reward of 140.306821
+Selected index 0 after 3ms Predicted reward / PG: 138.4998 / 138.4998
+Logged reward of 75.071289
+Selected index 0 after 3ms Predicted reward / PG: 88.512314 / 88.512314
+Logged reward of 206.501027
+Selected index 0 after 3ms Predicted reward / PG: 88.15501 / 88.15501
+Logged reward of 4689.238374
+Selected index 0 after 3ms Predicted reward / PG: 101.69519 / 101.69519
+Logged reward of 29.651859
+Selected index 0 after 3ms Predicted reward / PG: 154.39006 / 154.39006
+Logged reward of 22.531341
+Selected index 0 after 3ms Predicted reward / PG: 101.66616 / 101.66616
+Logged reward of 175.682297
+Selected index 0 after 3ms Predicted reward / PG: 101.037025 / 101.037025
+Logged reward of 19.815374
+Selected index 0 after 3ms Predicted reward / PG: 206.11484 / 206.11484
+Logged reward of 515.193577
+Selected index 0 after 3ms Predicted reward / PG: 100.57396 / 100.57396
+Logged reward of 1745.266602
+Selected index 0 after 3ms Predicted reward / PG: 100.56049 / 100.56049
+Logged reward of 54.87019
+Selected index 0 after 3ms Predicted reward / PG: 100.50699 / 100.50699
+Logged reward of 37.669357
+Selected index 0 after 3ms Predicted reward / PG: 100.48826 / 100.48826
+Logged reward of 61.328673
+Selected index 0 after 3ms Predicted reward / PG: 234.61086 / 234.61086
+Logged reward of 104.321255
+Selected index 0 after 3ms Predicted reward / PG: 274.51126 / 274.51126
+Logged reward of 928.459109
+Selected index 0 after 3ms Predicted reward / PG: 410.74973 / 410.74973
+Logged reward of 1438.717221
+Selected index 0 after 3ms Predicted reward / PG: 99.64538 / 99.64538
+Logged reward of 103.396192
+Selected index 0 after 3ms Predicted reward / PG: 125.38817 / 125.38817
+Logged reward of 62.997257
+Selected index 0 after 3ms Predicted reward / PG: 143.51501 / 143.51501
+Logged reward of 1935.834297
+Selected index 0 after 3ms Predicted reward / PG: 126.14181 / 126.14181
+Logged reward of 30.659143
+Selected index 0 after 3ms Predicted reward / PG: 92.22172 / 92.22172
+Logged reward of 124.193609
+Selected index 0 after 3ms Predicted reward / PG: 142.72205 / 142.72205
+Logged reward of 781.193286
+Selected index 0 after 3ms Predicted reward / PG: 231.2869 / 231.2869
+Logged reward of 127.203067
+Selected index 0 after 3ms Predicted reward / PG: 155.97874 / 155.97874
+Logged reward of 572.93917
+Selected index 0 after 3ms Predicted reward / PG: 89.11582 / 89.11582
+Logged reward of 22.759062
+Selected index 0 after 3ms Predicted reward / PG: 89.112 / 89.112
+Logged reward of 888.663772
+Selected index 0 after 3ms Predicted reward / PG: 107.33242 / 107.33242
+Logged reward of 47.595254
+Selected index 0 after 3ms Predicted reward / PG: 89.11066 / 89.11066
+Logged reward of 4701.863229
+Selected index 0 after 3ms Predicted reward / PG: 85.56215 / 85.56215
+Logged reward of 43.365148
+Selected index 0 after 3ms Predicted reward / PG: 85.56132 / 85.56132
+Logged reward of 22.773741
+Selected index 0 after 3ms Predicted reward / PG: 131.28564 / 131.28564
+Selected index 0 after 3ms Predicted reward / PG: 120.39757 / 120.39757
+Logged reward of 100.024268
+Selected index 0 after 3ms Predicted reward / PG: 135.29097 / 135.29097
+Logged reward of 214.737433
+Selected index 0 after 3ms Predicted reward / PG: 77.04019 / 77.04019
+Logged reward of 31.619787
+Selected index 0 after 3ms Predicted reward / PG: 110.29692 / 110.29692
+Logged reward of 191.090491
+Selected index 0 after 3ms Predicted reward / PG: 99.42611 / 99.42611
+Logged reward of 55.675373
+Selected index 0 after 3ms Predicted reward / PG: 113.82822 / 113.82822
+Logged reward of 29.852894
+Selected index 0 after 3ms Predicted reward / PG: 77.00113 / 77.00113
+Logged reward of 2.071269
+Selected index 0 after 3ms Predicted reward / PG: 77.000984 / 77.000984
+Logged reward of 44.774128
+Selected index 0 after 3ms Predicted reward / PG: 76.998566 / 76.998566
+Logged reward of 429.050603
+Selected index 0 after 3ms Predicted reward / PG: 144.47786 / 144.47786
+Logged reward of 51.21528
+Selected index 0 after 3ms Predicted reward / PG: 76.987625 / 76.987625
+Logged reward of 33.809885
+Selected index 0 after 3ms Predicted reward / PG: 76.98268 / 76.98268
+Logged reward of 200.030789
+Selected index 0 after 3ms Predicted reward / PG: 241.5652 / 241.5652
+Logged reward of 274.938155
+Selected index 0 after 3ms Predicted reward / PG: 115.11128 / 115.11128
+Logged reward of 147.367843
+Selected index 0 after 3ms Predicted reward / PG: 83.39658 / 83.39658
+Logged reward of 116.132869
+Selected index 0 after 3ms Predicted reward / PG: 115.69247 / 115.69247
+Logged reward of 234.041741
+Selected index 0 after 3ms Predicted reward / PG: 102.72263 / 102.72263
+Selected index 0 after 3ms Predicted reward / PG: 82.59167 / 82.59167
+Logged reward of 14.034315
+Selected index 0 after 3ms Predicted reward / PG: 77.052666 / 77.052666
+Selected index 0 after 3ms Predicted reward / PG: 0.18200791 / 0.18200791
+Logged reward of 28.90581
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011475
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010555
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012909
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012347
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010744
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010641
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011093
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010082
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010818
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011217
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011313
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01091
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011807
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010976
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011196
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010657
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011715
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011761
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010061
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010305
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01069
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010654
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011232
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010409
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011852
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011493
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010594
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011802
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013109
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011302
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011545
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011093
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010557
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.029218
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012444
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01095
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011738
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013039
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011999
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013815
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011412
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.029983
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010417
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011038
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010806
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013966
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.034524
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012867
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011811
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010311
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012233
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011179
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011152
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011298
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010825
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010285
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012179
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.0125
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011626
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010715
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013197
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.014397
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010502
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012529
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011031
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011136
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011794
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011604
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011829
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011126
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012163
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011936
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011055
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01103
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010381
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012313
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011807
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01134
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012782
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012584
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01083
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013003
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010471
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011107
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012641
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012136
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011478
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01094
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011281
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013222
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012787
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011951
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01206
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011526
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010767
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010447
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012275
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010616
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.025867
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012646
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012596
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010857
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011298
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010496
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011375
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011563
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.027893
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010845
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010872
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011063
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01039
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011211
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012897
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01108
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012152
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012499
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01028
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011842
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01182
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010491
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011224
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011955
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.014233
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011959
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.021805
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011745
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012655
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012429
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010863
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011099
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012519
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012741
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010871
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011384
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012354
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010913
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01267
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011508
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011632
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011303
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012938
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011662
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011543
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012036
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012906
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01104
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011923
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011183
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011516
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012803
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010705
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010689
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012512
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010881
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011901
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010941
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011668
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010643
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011392
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010816
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01206
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011608
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01104
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010223
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011061
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012103
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.02402
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01055
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012682
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.0118
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.010785
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011198
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011619
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.01072
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.012617
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011559
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.030656
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011185
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.013305
+Selected index 2 after 3ms Predicted reward / PG: 0.60917425 / 0.61497843
+Logged reward of 0.011054
