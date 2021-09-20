@@ -31,8 +31,8 @@ for fp in query_paths:
     with open(fp) as f:
         query = f.read()
     queries.append((fp, query))
-print("Read", len(queries), "queries.")
-print("Using Bao:", USE_BAO)
+#print("Read", len(queries), "queries.")
+#print("Using Bao:", USE_BAO)
 
 for fp, q in queries:
     q_time = run_query(q, bao_reward=USE_BAO, bao_select=USE_BAO)
@@ -40,4 +40,4 @@ for fp, q in queries:
     f = fp.split('/')[-1]
     # get query id from query file name 'bao_12.sql'
     qid = f.split('.')[0].split('_')[-1]
-    print(qid, q_time, flush=True)
+    print(qid, q_time, flush=True, sep=", ")
