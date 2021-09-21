@@ -58,7 +58,7 @@ class TreeBuilder:
             return self.plan_to_feature_tree(children[0])
 
         if is_join(plan):
-            assert len(children) == 2
+            #assert len(children) == 2
             my_vec = self.__featurize_join(plan)
             left = self.plan_to_feature_tree(children[0])
             right = self.plan_to_feature_tree(children[1])
