@@ -5,7 +5,7 @@ import random
 from time import time, sleep
 
 USE_BAO = True
-PG_CONNECTION_STR = "dbname=imdb user=imdb host=localhost"
+PG_CONNECTION_STR = "dbname=imdb user=postgres host=localhost"
 
 # https://stackoverflow.com/questions/312443/
 def chunks(lst, n):
@@ -23,7 +23,7 @@ def run_query(sql, bao_select=False, bao_reward=False):
             cur.execute(f"SET enable_bao TO {bao_select or bao_reward}")
             cur.execute(f"SET enable_bao_selection TO {bao_select}")
             cur.execute(f"SET enable_bao_rewards TO {bao_reward}")
-            cur.execute("SET bao_num_arms TO 5")
+            cur.execute("SET bao_num_arms TO 26")
             cur.execute("SET statement_timeout TO 300000")
             cur.execute(q)
             cur.fetchall()
@@ -46,8 +46,8 @@ print("Read", len(queries), "queries.")
 print("Using Bao:", USE_BAO)
 
 random.seed(42)
-query_sequence = random.choices(queries, k=500)
-pg_chunks, *bao_chunks = list(chunks(query_sequence, 25))
+query_sequence = random.choices(queries, k=50)
+pg_chunks, *bao_chunks = list(chunks(query_sequence, 5))
 
 print("Executing queries using PG optimizer for initial training")
 
