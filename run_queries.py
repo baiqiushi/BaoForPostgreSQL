@@ -5,7 +5,7 @@ import random
 from time import time, sleep
 
 USE_BAO = True
-PG_CONNECTION_STR = "dbname=imdb user=postgres host=localhost"
+PG_CONNECTION_STR = "dbname=imdb user=postgres host=localhost password=postgres"
 
 # https://stackoverflow.com/questions/312443/
 def chunks(lst, n):
@@ -29,7 +29,8 @@ def run_query(sql, bao_select=False, bao_reward=False):
             cur.fetchall()
             conn.close()
             break
-        except:
+        except Exception as e:
+            print(e)
             sleep(1)
             continue
     stop = time()
