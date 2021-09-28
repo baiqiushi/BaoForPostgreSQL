@@ -32,14 +32,30 @@ class BaoModel:
             return PG_OPTIMIZER_INDEX
 
         # if we do have a model, make predictions for each plan.
-        arms = add_buffer_info_to_plans(buffers, arms)
-        res = self.__current_model.predict(arms)
-        idx = res.argmin()
+        # arms = add_buffer_info_to_plans(buffers, arms)
+        # res = self.__current_model.predict(arms)
+        # idx = res.argmin()
+        # stop = time.time()
+        # print("Selected index", idx,
+        #       "after", f"{round((stop - start) * 1000)}ms",
+        #       "Predicted reward / PG:", res[idx][0],
+        #       "/", res[0][0])
+        min_predict = sys.float_info.max
+        min_idx = -1
+        pg_predict = 0.0
+        for idx, arm in enumerate(arms):
+            plans = add_buffer_info_to_plans(buffers, [arm])
+            predict = self.__current_model.predict(plans)[0][0]
+            if predict < min_predict:
+                min_predict = predict
+                min_idx = idx
+            if idx == 0:
+                pg_predict = predict
         stop = time.time()
         print("Selected index", idx,
               "after", f"{round((stop - start) * 1000)}ms",
-              "Predicted reward / PG:", res[idx][0],
-              "/", res[0][0])
+              "Predicted reward / PG:", min_predict,
+              "/", pg_predict)
         return idx
 
     def predict(self, messages):
