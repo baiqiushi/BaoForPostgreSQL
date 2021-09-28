@@ -5,6 +5,7 @@ import random
 from time import time, sleep
 
 USE_BAO = True
+TRAIN_BAO = True
 PG_CONNECTION_STR = "dbname=imdb user=postgres host=localhost password=postgres"
 
 # https://stackoverflow.com/questions/312443/
@@ -30,7 +31,8 @@ def run_query(sql, bao_select=False, bao_reward=False):
             conn.close()
             break
         except Exception as e:
-            print(e)
+            if TRAIN_BAO:
+                print(e)
             sleep(1)
             continue
     stop = time()
@@ -43,23 +45,29 @@ for fp in query_paths:
     with open(fp) as f:
         query = f.read()
     queries.append((fp, query))
-print("Read", len(queries), "queries.")
-print("Using Bao:", USE_BAO)
+if TRAIN_BAO:
+    print("Read", len(queries), "queries.")
+    print("Using Bao:", USE_BAO)
 
-random.seed(42)
-query_sequence = random.choices(queries, k=50)
-pg_chunks, *bao_chunks = list(chunks(query_sequence, 5))
+if TRAIN_BAO:
+    random.seed(42)
+    query_sequence = random.choices(queries, k=50)
+    pg_chunks, *bao_chunks = list(chunks(query_sequence, 5))
+    print("Executing queries using PG optimizer for initial training")
 
-print("Executing queries using PG optimizer for initial training")
+    for fp, q in pg_chunks:
+        pg_time = run_query(q, bao_reward=True)
+        print("x", "x", time(), fp, pg_time, "PG", flush=True)
 
-for fp, q in pg_chunks:
-    pg_time = run_query(q, bao_reward=True)
-    print("x", "x", time(), fp, pg_time, "PG", flush=True)
-
-for c_idx, chunk in enumerate(bao_chunks):
-    if USE_BAO:
-        os.system("cd bao_server && python3 baoctl.py --retrain")
-        os.system("sync")
-    for q_idx, (fp, q) in enumerate(chunk):
-        q_time = run_query(q, bao_reward=USE_BAO, bao_select=USE_BAO)
-        print(c_idx, q_idx, time(), fp, q_time, flush=True)
+    for c_idx, chunk in enumerate(bao_chunks):
+        if USE_BAO:
+            os.system("cd bao_server && python3 baoctl.py --retrain")
+            os.system("sync")
+        for q_idx, (fp, q) in enumerate(chunk):
+            q_time = run_query(q, bao_reward=USE_BAO, bao_select=USE_BAO)
+            print(c_idx, q_idx, time(), fp, q_time, flush=True)
+# testing Bao
+else:
+    for fp, q in queries:
+        q_time = run_query(q, bao_reward=False, bao_select=USE_BAO)
+        print(fp, q_time, flush=True)

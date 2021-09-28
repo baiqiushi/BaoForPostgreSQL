@@ -36,10 +36,13 @@ class BaoModel:
         res = self.__current_model.predict(arms)
         idx = res.argmin()
         stop = time.time()
-        print("Selected index", idx,
-              "after", f"{round((stop - start) * 1000)}ms",
-              "Predicted reward / PG:", res[idx][0],
-              "/", res[0][0])
+        # print("Selected index", idx,
+        #       "after", f"{round((stop - start) * 1000)}ms",
+        #       "Predicted reward / PG:", res[idx][0],
+        #       "/", res[0][0])
+        # print in csv format: 
+        #   selected_index, planning_time(s), predicted_querying_time_for_selected_index(s), predicted_querying_time_for_pg(s)
+        print(idx, (stop - start), res[idx][0] / 1000.0, res[0][0] / 1000.0, sep=", ")
         return idx
 
     def predict(self, messages):
