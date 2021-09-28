@@ -55,8 +55,8 @@ class BaoModel:
         # print in csv format: 
         #   selected_index, planning_time(s), predicted_querying_time_for_selected_index(s), predicted_querying_time_for_pg(s)
         # print(idx, (stop - start), res[idx][0] / 1000.0, res[0][0] / 1000.0, sep=", ")
-        print(idx, (stop - start), min_predict / 1000.0, pg_predict / 1000.0, sep=", ")
-        return idx
+        print(min_idx, (stop - start), min_predict / 1000.0, pg_predict / 1000.0, sep=", ")
+        return min_idx
 
     def predict(self, messages):
         # the last message is the buffer state
