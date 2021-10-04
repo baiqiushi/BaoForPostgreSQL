@@ -1,0 +1,146 @@
+Read 59 queries.
+Using Bao: True
+Executing queries using PG optimizer for initial training
+x x 1632850107.5068424 bao_train/19d.sql 7.349186182022095 PG
+x x 1632850107.8849912 bao_train/10b.sql 0.3780934810638428 PG
+x x 1632850108.7040977 bao_train/14c.sql 0.8190567493438721 PG
+x x 1632850110.721924 bao_train/13d.sql 2.017768383026123 PG
+x x 1632850111.11954 bao_train/30b.sql 0.3975696563720703 PG
+Warning: trying to train a Bao model with fewer than 20 datapoints.
+Initial input channels: 10
+Epoch 0 training loss: 0.2361268550157547
+Epoch 15 training loss: 0.047460149973630905
+Epoch 30 training loss: 0.012109776958823204
+Epoch 45 training loss: 0.00015285564586520195
+Stopped training from convergence condition at epoch 52
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+0 0 1632850112.719446 bao_train/1b.sql 0.14365506172180176
+0 1 1632850114.7471924 bao_train/33c.sql 2.0276830196380615
+0 2 1632850115.2502208 bao_train/11c.sql 0.5029585361480713
+0 3 1632850117.274501 bao_train/16d.sql 2.0242276191711426
+0 4 1632850117.770578 bao_train/10b.sql 0.49602532386779785
+Warning: trying to train a Bao model with fewer than 20 datapoints.
+Initial input channels: 10
+Epoch 0 training loss: 0.8892831802368164
+Epoch 15 training loss: 0.045350197702646255
+Epoch 30 training loss: 0.023666057735681534
+Epoch 45 training loss: 0.009650071151554585
+Epoch 60 training loss: 0.004961692728102207
+Epoch 75 training loss: 0.0035326280631124973
+Epoch 90 training loss: 0.0023047036956995726
+Stopped training after max epochs
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+1 0 1632850121.7837203 bao_train/13c.sql 1.4890046119689941
+1 1 1632850138.3174849 bao_train/17e.sql 16.533691883087158
+1 2 1632850138.6650453 bao_train/10b.sql 0.347506046295166
+1 3 1632850140.2071779 bao_train/13b.sql 1.5420796871185303
+1 4 1632850140.3564713 bao_train/1a.sql 0.14924144744873047
+Warning: trying to train a Bao model with fewer than 20 datapoints.
+Initial input channels: 10
+Epoch 0 training loss: 0.10235036909580231
+Epoch 15 training loss: 0.06842050701379776
+Epoch 30 training loss: 0.0488775260746479
+Epoch 45 training loss: 0.03230956941843033
+Epoch 60 training loss: 0.01723868027329445
+Epoch 75 training loss: 0.007656184956431389
+Epoch 90 training loss: 0.0032055925112217665
+Stopped training after max epochs
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+2 0 1632850143.8367097 bao_train/18b.sql 0.5906834602355957
+2 1 1632850148.8762836 bao_train/13d.sql 5.039505958557129
+2 2 1632850157.0963209 bao_train/19a.sql 8.219985723495483
+2 3 1632850171.970735 bao_train/31c.sql 14.874367713928223
+2 4 1632850181.4711359 bao_train/10a.sql 9.500349521636963
+Initial input channels: 10
+Epoch 0 training loss: 0.1912822388112545
+Epoch 15 training loss: 0.09410403482615948
+Stopped training from convergence condition at epoch 20
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+3 0 1632850185.289352 bao_train/31c.sql 2.346903085708618
+3 1 1632850185.4255846 bao_train/1d.sql 0.1361701488494873
+3 2 1632850186.9123044 bao_train/15d.sql 1.4866728782653809
+3 3 1632850188.85835 bao_train/12c.sql 1.9459939002990723
+3 4 1632850190.2152693 bao_train/7a.sql 1.3568651676177979
+Initial input channels: 10
+Epoch 0 training loss: 0.3835101053118706
+Epoch 15 training loss: 0.02951529063284397
+Epoch 30 training loss: 0.008279468398541212
+Epoch 45 training loss: 0.005709425546228886
+Epoch 60 training loss: 0.0029308530502021313
+Stopped training from convergence condition at epoch 68
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+4 0 1632850197.236039 bao_train/15c.sql 3.8374345302581787
+4 1 1632850197.7546036 bao_train/11c.sql 0.5184664726257324
+4 2 1632850198.268538 bao_train/11c.sql 0.5138857364654541
+4 3 1632850201.0675225 bao_train/33a.sql 2.798935651779175
+4 4 1632850208.6624215 bao_train/19b.sql 7.594849109649658
+Initial input channels: 10
+Epoch 0 training loss: 0.9106211066246033
+Epoch 15 training loss: 0.07803836092352867
+Epoch 30 training loss: 0.055028047412633896
+Epoch 45 training loss: 0.03322153352200985
+Epoch 60 training loss: 0.01794994529336691
+Epoch 75 training loss: 0.00915956636890769
+Epoch 90 training loss: 0.005262505263090134
+Stopped training from convergence condition at epoch 99
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+5 0 1632850215.766413 bao_train/31c.sql 2.362409830093384
+5 1 1632850217.513317 bao_train/30b.sql 1.7468419075012207
+5 2 1632850218.1662192 bao_train/18a.sql 0.6528458595275879
+5 3 1632850218.6818821 bao_train/7b.sql 0.5156145095825195
+5 4 1632850239.7250793 bao_train/16b.sql 21.04314923286438
+Initial input channels: 10
+Epoch 0 training loss: 0.3032839569884042
+Epoch 15 training loss: 0.054470308125019073
+Epoch 30 training loss: 0.021059835329651833
+Epoch 45 training loss: 0.005702521986677311
+Stopped training from convergence condition at epoch 52
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+6 0 1632850243.5216706 bao_train/18b.sql 0.4334864616394043
+6 1 1632850243.9078884 bao_train/32a.sql 0.3861520290374756
+6 2 1632850247.0090249 bao_train/19c.sql 3.1010899543762207
+6 3 1632850248.940473 bao_train/33a.sql 1.9314005374908447
+6 4 1632850257.3566017 bao_train/19a.sql 8.416077136993408
+Initial input channels: 10
+Epoch 0 training loss: 0.17637498925129572
+Epoch 15 training loss: 0.030137773758421343
+Epoch 30 training loss: 0.01170705414066712
+Stopped training from convergence condition at epoch 42
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+7 0 1632850260.537061 bao_train/1d.sql 0.13389849662780762
+7 1 1632850266.6436677 bao_train/10c.sql 6.106529712677002
+7 2 1632850273.0844927 bao_train/13d.sql 6.440769195556641
+7 3 1632850273.9829926 bao_train/15a.sql 0.8984501361846924
+7 4 1632850275.0162258 bao_train/11b.sql 1.0331814289093018
+Initial input channels: 10
+Epoch 0 training loss: 0.5391636441151301
+Epoch 15 training loss: 0.050702194372812905
+Epoch 30 training loss: 0.022691942751407623
+Epoch 45 training loss: 0.013692314426104227
+Epoch 60 training loss: 0.006091490698357423
+Epoch 75 training loss: 0.0027094038280968866
+Stopped training from convergence condition at epoch 84
+Old model # regressions: 0 regression amount: 0
+New model # regressions: 0 regression amount: 0
+New model had no regressions.
+8 0 1632850286.0391598 bao_train/13d.sql 5.39776086807251
+8 1 1632850286.4519174 bao_train/11c.sql 0.4126927852630615
+8 2 1632850287.373086 bao_train/14c.sql 0.9211223125457764
+8 3 1632850322.538024 bao_train/19d.sql 35.16488838195801
+8 4 1632850325.6935704 bao_train/16a.sql 3.1554956436157227
